@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work.more changes from myfeature branch
+This repository is for showing how Git and GitHub work.more changes from myfeature branch. Updating line
 #Introduction
 This is the exampke of editing readme file
 #Deployment
