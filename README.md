@@ -1,7 +1,8 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
-
+#Introduction
+This is the exampke of editing readme file
 #Deployment
 
 ## Purpose
