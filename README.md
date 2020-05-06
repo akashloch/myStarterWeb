@@ -9,7 +9,7 @@ Plan to deploy some web application
 Sample website with plenty of files for demos
 
 # How to contribute
-	Please fork this repo
+	Please fork this repo and pull into into ur local foir review.
 ### Copyright
 2014 Git.training
 
