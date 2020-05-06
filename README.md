@@ -11,5 +11,6 @@ Sample website with plenty of files for demos
 # How to contribute
 	Please fork this repo and pull into into ur local foir review.lets modify something
 ### Copyright
-2014 Git.training
+2014 Git.training. All rights reserved
+
 
