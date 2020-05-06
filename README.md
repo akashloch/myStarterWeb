@@ -8,6 +8,8 @@ Plan to deploy some web application
 ## Purpose
 Sample website with plenty of files for demos
 
+# How to contribute
+	Please fork this repo
 ### Copyright
 2014 Git.training
 
